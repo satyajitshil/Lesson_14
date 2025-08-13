@@ -11,4 +11,4 @@ while True:
         t.fd(size+1)
         t.lt(90)
         size = size - 5
-    size = size + 1
+    size = size + 5
